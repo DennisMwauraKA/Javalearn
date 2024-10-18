@@ -1,0 +1,57 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "MultidimensionalArray",
+            "request": "launch",
+            "mainClass": "MultidimensionalArray",
+            "projectName": "javacourse_caf36b35"
+        },
+        {
+            "type": "java",
+            "name": "Arrays",
+            "request": "launch",
+            "mainClass": "Arrays",
+            "projectName": "javacourse_caf36b35"
+        },
+        {
+            "type": "java",
+            "name": "Methods",
+            "request": "launch",
+            "mainClass": "Methods",
+            "projectName": "javacourse_caf36b35"
+        },
+        {
+            "type": "java",
+            "name": "OopClass",
+            "request": "launch",
+            "mainClass": "OopClass",
+            "projectName": "javacourse_caf36b35"
+        },
+        {
+            "type": "java",
+            "name": "forloop",
+            "request": "launch",
+            "mainClass": "forloop",
+            "projectName": "javacourse_caf36b35"
+        },
+        {
+            "type": "java",
+            "name": "forloop",
+            "request": "launch",
+            "mainClass": "forloop",
+            "projectName": "javacourse_caf36b35"
+        },
+        {
+            "type": "java",
+            "name": "forloop",
+            "request": "launch",
+            "mainClass": "forloop",
+            "projectName": "javacourse_caf36b35"
+        }
+    ]
+}
