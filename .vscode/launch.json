@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "DemoInterface",
+            "request": "launch",
+            "mainClass": "DemoInterface",
+            "projectName": "javacourse_caf36b35"
+        },
+        {
+            "type": "java",
             "name": "AbstractKeyword",
             "request": "launch",
             "mainClass": "AbstractKeyword",
